@@ -1,0 +1,7 @@
+server_name,cpu_cores,memory_gb,storage_tb,location
+Server-B,16,32,2,Busan
+Server-C,32,64,4,Incheon
+Server-E,24,48,3,Daejeon
+Server-G,32,128,8,Busan
+Server-H,8,32,2,Incheon
+Server-J,64,256,10,Daejeon
