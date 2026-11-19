@@ -1,0 +1,12 @@
+
+server_name,cpu_cores,memory_gb,storage_tb,location
+Server-A,8,16,1,Seoul
+Server-B,16,32,2,Busan
+Server-C,32,64,4,Incheon
+Server-D,4,8,1,Daegu
+Server-E,24,48,3,Daejeon
+Server-F,16,16,2,Seoul
+Server-G,32,128,8,Busan
+Server-H,8,32,2,Incheon
+Server-I,12,24,2,Daegu
+Server-J,64,256,10,Daejeon
